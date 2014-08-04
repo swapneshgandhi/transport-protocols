@@ -1,3 +1,5 @@
+3 reliable transport protocols - Alternating Bits, Go-Back-N, and Selective Repeat
+
 Structures used:
 struct pkt_info{
 	pkt packet;
